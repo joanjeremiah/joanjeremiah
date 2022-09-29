@@ -8,7 +8,7 @@ I am a Full Stack Developer and Machine Learning Enthusiast. Passionate about le
 
 <h2>📫 How to reach me:</h2>
 
-<a href="www.linkedin.com/in/joan-jeremiah">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/joan-jeremiah">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <!--
