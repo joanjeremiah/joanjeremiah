@@ -1,6 +1,10 @@
-### Hi there 👋
-
 [![@joanjeremiah04's Holopin board](https://holopin.io/api/user/board?user=joanjeremiah04)](https://holopin.io/@joanjeremiah04)
+
+### Hi, I'm Joan! 👋
+
+- <i>Currently:</i> Pre-final year student at St.Joseph's college of Engineering.
+
+I am a Full Stack Developer and Machine Learning Enthusiast. Passionate about learning new inventive technologies to elevate spirits and build communities ❤️. Some technologies I enjoy working with include ReactJS,NextJS, NodeJS, and MongoDB. Languages I hold knowledge about are Java, Javascript and  Python. I am chosen as the ⭐ Google Developer Student Club Lead, St.Joseph's college of Engineering 2022-2023. ⚡ Outside Tech, I love to solve puzzles,play chess, enjoy music, and explore nature outdoors.
 
 <!--
 **joanjeremiah/joanjeremiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
