@@ -4,8 +4,8 @@
 
 - <i>Currently:</i> MTS at Zoho Corp
 
-Aspiring Computer Science graduate currently working as a Software Developer and Researcher at Zoho Corp. . Recognized as ”Best Outgoing Student of the Year” for
-outstanding academic and project achievements.  Eager to bring a solid foundation in software engineering and a dedication to learning.
+Aspiring Computer Science graduate currently working as a Software Developer and Researcher at Zoho Corp. Recognized as ”Best Outgoing Student of the Year” for
+outstanding academic and project achievements. Eager to bring a solid foundation in software engineering and a dedication to learning.
 
 
 <h2>📫 How to reach me:</h2>
