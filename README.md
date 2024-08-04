@@ -2,9 +2,11 @@
 
 ### Hi, I'm Joan! 👋
 
-- <i>Currently:</i> Final year student at St.Joseph's College of Engineering.
+- <i>Currently:</i> MTS at Zoho Corp
 
-I am a Full Stack Developer and Machine Learning Enthusiast. Passionate about learning new inventive technologies to elevate spirits and build communities ❤️. Some technologies I enjoy working with include ReactJS,NextJS, NodeJS, and MongoDB. Languages I hold knowledge about are Java, Javascript and  Python. I am chosen as the ⭐ Google Developer Student Club Lead, St.Joseph's college of Engineering 2022-2023. ⚡ Outside Tech, I love to solve puzzles,play chess, enjoy music, and explore nature outdoors.
+Aspiring Computer Science graduate currently working as a Software Developer and Researcher at Zoho Corp. . Recognized as ”Best Outgoing Student of the Year” for
+outstanding academic and project achievements.  Eager to bring a solid foundation in software engineering and a dedication to learning.
+
 
 <h2>📫 How to reach me:</h2>
 
